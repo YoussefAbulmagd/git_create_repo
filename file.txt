@@ -1,5 +1,4 @@
-line 1 is here
+
+line 2 master
 line 1 in test repo branch 
-line 2 in test repo branch 
-after pushing this is the first line
 
