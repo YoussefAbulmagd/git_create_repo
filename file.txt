@@ -2,3 +2,4 @@
 line 2 master
 line 1 in test repo branch 
 
+first line on git GUI
